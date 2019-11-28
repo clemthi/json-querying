@@ -1,0 +1,9 @@
+{
+  "mongo": {
+    "conn_str": "mongodb://localhost:27017",
+    "db": "test_db",
+    "collection": "test_coll1"
+  },
+  "source_url": "",
+  "source_file": "sample_data.json"
+}
